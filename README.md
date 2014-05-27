@@ -6,5 +6,5 @@ on different terminals on the same computer.</i></p>
 
 <h2>Install</h2>
 <p>Simply run nim and nim server on different terminals on the same machine.<br/>
-nim usage: nim or nim -q (udp mode)
+nim usage: nim or nim -q (udp mode)<br/>
 nim_server usage: nim_server (works with udp or tcp)</p>
